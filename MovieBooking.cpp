@@ -536,8 +536,8 @@ void menu() {
                    cout << "\n";
                    cout << "****************************************\n";
                    cout << "*            Created By:               *\n";
-                   cout << "*  Dineh Rimal, Kusal Rimal,           *\n";
-                   cout << "*  and Anish Kumar Goit                *\n";
+                   cout << "*            Kusal Rimal               *\n";
+                 
                    cout << "****************************************\n\n";
 
                     break;
